@@ -1,0 +1,221 @@
+(footprint "PH2.54_1X6"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "https://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=227431")
+	(property "Reference" "REF**"
+		(at 0 -8.8 0)
+		(layer "F.SilkS")
+		(uuid "c662b679-9b10-43db-961c-e07824a28276")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PH2.54_1X6"
+		(at 0 8.42 0)
+		(layer "F.Fab")
+		(uuid "20e29c6b-f18b-4634-aa9e-16fc8b4a255a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b239e01d-5b93-4acb-9dc3-f0e3aa861144")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "adc6a0c0-55b7-4c31-b579-dc457646dd8c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56da6522-1e70-4f9b-bbc6-ec36b0fbaee1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -1.4 -8)
+		(end 1.4 -8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "30680bd5-7a3e-4687-b679-e81fd4e103de")
+	)
+	(fp_line
+		(start -1.4 -7.65)
+		(end -1.1 -7.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "62977ef0-040e-4f51-a17c-b2c92bd88141")
+	)
+	(fp_line
+		(start -1.4 -7.61)
+		(end -1.4 -8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b3e0a257-addf-49f4-89c9-216f3bea2fb0")
+	)
+	(fp_line
+		(start -1.4 7.62)
+		(end -1.4 -7.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "28aff0bb-08d6-47d7-90fb-381e80bb97b1")
+	)
+	(fp_line
+		(start -1.4 7.62)
+		(end 1.4 7.62)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "56cdd5af-558e-48bd-b825-e4ff9c94fd56")
+	)
+	(fp_line
+		(start -1.1 -7.65)
+		(end 1.4 -7.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8ca0899a-c396-4d46-b8f2-471db30ee0f1")
+	)
+	(fp_line
+		(start 1.4 -7.51)
+		(end 1.4 -8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f637140c-2653-465d-a392-80e67da99033")
+	)
+	(fp_line
+		(start 1.4 7.62)
+		(end 1.4 -7.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "78a52fb2-0850-4c0c-b718-a91f10be94ae")
+	)
+	(fp_rect
+		(start -1.4 -7.61)
+		(end 1.4 -8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "b84e3a26-6b2f-4b3c-9bef-f883d6274959")
+	)
+	(pad "1" thru_hole circle
+		(at -0.127 -6.35)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "039cd032-5f21-4caa-80b4-6667eb160309")
+	)
+	(pad "2" thru_hole circle
+		(at 0.127 -3.81)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "6ff3a097-2497-4989-a293-5411cc99d40e")
+	)
+	(pad "3" thru_hole circle
+		(at -0.127 -1.27)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "2519e924-accc-449d-877f-b7a06b6a2efe")
+	)
+	(pad "4" thru_hole circle
+		(at 0.127 1.27 180)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "2ea1047b-6122-4fbd-8f1b-7ed5ab8dee1d")
+	)
+	(pad "5" thru_hole circle
+		(at -0.127 3.81 180)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "67f7b1c1-f173-439f-9f00-692299dc36f1")
+	)
+	(pad "6" thru_hole circle
+		(at 0.127 6.35 180)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "6c278b5b-4ded-455f-8f76-751c38748982")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_CON_3D/User Library-Header_Male_6Pin.STEP"
+		(offset
+			(xyz 0 -6.33 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+)

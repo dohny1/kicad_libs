@@ -1,0 +1,144 @@
+(footprint "CAP_ELYT_35x45x10"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.56825 -18.5635 0)
+		(layer "F.SilkS")
+		(uuid "ee2744e3-b390-49b6-adc7-3c4ea4686c10")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CAP_ELYT_35x45x10"
+		(at 0.56825 18.5635 0)
+		(layer "F.Fab")
+		(uuid "494a7b9a-eec2-4c9a-a7b6-70194de6cc12")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da61f5c8-9ee9-4b86-b71f-43f14dd02a4a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f866e95f-52e3-43e6-a5a6-f5a096a423d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37822482-562c-44ca-bd23-945d290608c5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_arc
+		(start 15.392926 -10.26196)
+		(mid 18.5 -0.000001)
+		(end 15.392927 10.261959)
+		(stroke
+			(width 1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3038723c-838d-4383-9d9e-0149a0a9a59a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -17.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "a9cd92b7-f2c5-4e12-a950-843d61cc80c7")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -18.30109)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "7f2a97bf-d2d9-45c6-94a8-6762ffe8857c")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -0.15)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "a0a2485c-9b8b-4291-8887-1af9a0b46610")
+	)
+	(fp_text_box ""
+		(start -10.9 3)
+		(end -10.9 3)
+		(layer "F.Cu")
+		(uuid "1c45c007-0c37-4bff-b061-c65830573b7f")
+		(effects
+			(font
+				(size 3.4 3)
+				(thickness 0.4)
+			)
+			(justify left bottom)
+		)
+		(border yes)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at -3.21394 3.83022 50)
+		(size 5 5)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "18162388-ade8-47ce-8ccc-4026b1255176")
+	)
+	(pad "2" thru_hole circle
+		(at 3.21394 -3.83022 50)
+		(size 5 5)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "545aae5b-b8c5-4305-bb43-485446585334")
+	)
+)

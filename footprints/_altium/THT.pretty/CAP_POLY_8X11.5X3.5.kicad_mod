@@ -1,0 +1,155 @@
+(footprint "CAP_POLY_8X11.5X3.5"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Polarized capacitors, Aluminum Electrolytic Capacitors, 2-Leads, Body 8x11.5x3.5x0.5")
+	(property "Reference" "REF**"
+		(at 0.36825 -4.7635 0)
+		(layer "F.SilkS")
+		(uuid "e8e9b178-15d7-4920-a076-7cab4cc1ee16")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CAP_POLY_8X11.5X3.5"
+		(at 0.36825 4.7635 0)
+		(layer "F.Fab")
+		(uuid "d0a5840b-a95c-4421-b1fd-f021e6df9705")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c33b92c7-06a9-4589-b115-d987257e985c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95b73fd3-4c78-4b68-8106-fef940eb8329")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "26d63d35-81c7-4f4b-a5ac-5d1a6657788f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_arc
+		(start 3.90709 -2.232633)
+		(mid 4.5 0.000001)
+		(end 3.907089 2.232634)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "623ecc93-52f1-40e8-9337-3f1c56cf0cf4")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "42f7ec6b-3185-40b5-859d-66ef5e70a42e")
+	)
+	(fp_poly
+		(pts
+			(xy 1.75 3.556) (xy 1.778 3.556) (xy 2.667 3.048) (xy 3.302 2.286) (xy 3.39262 2.1843) (xy 3.55304 1.96412)
+			(xy 3.69112 1.72927) (xy 3.80551 1.48201) (xy 3.89511 1.22474) (xy 3.95906 0.95992) (xy 3.99675 0.69011)
+			(xy 4.00781 0.4179) (xy 3.99997 0.28191) (xy 3.99998 0.28191) (xy 4 -0.28189) (xy 3.99901 -0.43919)
+			(xy 3.96622 -0.75207) (xy 3.90291 -1.06022) (xy 3.8097 -1.36069) (xy 3.68749 -1.65058) (xy 3.53745 -1.92708)
+			(xy 3.36103 -2.18755) (xy 3.15992 -2.42947) (xy 3.048 -2.54) (xy 2.667 -3.048) (xy 1.778 -3.556)
+			(xy 1.77134 -3.54934) (xy 1.76087 -3.53368) (xy 1.75366 -3.51629) (xy 1.74999 -3.49781) (xy 1.75 -3.4884)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "1eed5ede-560b-4146-a409-22859e58659a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -4.32565)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "45b3872b-d46e-4045-b6c0-ece828e19eb7")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -0.2)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "99bc75dd-538f-473e-96f1-83e935872d4b")
+	)
+	(pad "1" thru_hole roundrect
+		(at -1.75 0)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "f38a01e2-ad7e-4fe5-80df-33fdb3bae541")
+	)
+	(pad "2" thru_hole circle
+		(at 1.75 0)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "aa001ab7-5936-4bd1-88e9-bbfa01421bf4")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_3D/User Library-CAPPR350-800x1150_270uF_16V.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+)

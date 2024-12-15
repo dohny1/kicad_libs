@@ -1,0 +1,251 @@
+(footprint "RE_FINDER_40.52"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "8 Leads, 2 Pole 16A Relay, FINDER 40.52 Serie, Body 29mm x 12.4mm")
+	(property "Reference" "REF**"
+		(at -0.99996 -7 0)
+		(layer "F.SilkS")
+		(uuid "fc026753-634a-4ce3-9eb1-5dde25401271")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "RE_FINDER_40.52"
+		(at -0.99996 7 0)
+		(layer "F.Fab")
+		(uuid "f163dc0e-55db-4515-b5a2-cbfaf60201fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6d99bf9-b6f8-4eb3-8c48-9071b8efdb94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fcf080a6-f5ad-4e4a-b8d3-d7b36509fff3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "684abbcc-1daa-46df-bea3-399f2fdefe25")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -15.49997 -6.2)
+		(end 13.50005 -6.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9e0cc7ac-f68b-4bf4-81e8-1f67633229e7")
+	)
+	(fp_line
+		(start -15.49997 6.2)
+		(end -15.49997 -6.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bbdca6b7-37d7-48d8-beed-9665be1f73a5")
+	)
+	(fp_line
+		(start -15.49997 6.2)
+		(end 13.50005 6.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e5f2f12f-6ece-4cd1-a36f-ccdb2ea2bc0b")
+	)
+	(fp_line
+		(start 13.50005 -4.7298)
+		(end 13.50005 -6.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "77146bc9-a7d2-4b59-b0f6-a0724099a830")
+	)
+	(fp_line
+		(start 13.50005 2.77021)
+		(end 13.50005 -2.77021)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4c5fa02-bfb8-47a0-b01b-e6f46cecd05f")
+	)
+	(fp_line
+		(start 13.50005 6.2)
+		(end 13.50005 4.7298)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4a8b1738-4f7c-4d9d-8135-5f273d22a68e")
+	)
+	(fp_line
+		(start -15.49997 -6.2)
+		(end 13.50005 -6.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "c827bf55-ff6f-4d1d-b1da-7ae6e9484c5f")
+	)
+	(fp_line
+		(start -15.49997 6.2)
+		(end -15.49997 -6.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "b55d4514-dced-4a1d-b496-2d73f5a11210")
+	)
+	(fp_line
+		(start -15.49997 6.2)
+		(end 13.50005 6.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "6f0d6a43-51e1-4fc8-9caa-45d73865ddc6")
+	)
+	(fp_line
+		(start 13.50005 6.2)
+		(end 13.50005 -6.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "27e9951b-9692-4a90-86aa-e1cd55f63e6a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -0.2)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "d300717e-c019-4e72-89b2-ef33640b537e")
+	)
+	(pad "11" thru_hole oval
+		(at 7.50005 3.75 90)
+		(size 4 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "41c0c207-9c6b-41f2-999c-fb80c9fb90aa")
+	)
+	(pad "12" thru_hole oval
+		(at 2.53004 3.76 90)
+		(size 4 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b7057548-2c28-4f96-8169-195bf9c63ba6")
+	)
+	(pad "14" thru_hole oval
+		(at 12.50005 3.75 90)
+		(size 4 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d909959e-d3ed-434c-b089-5236c34754aa")
+	)
+	(pad "21" thru_hole oval
+		(at 7.50005 -3.75 90)
+		(size 4 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "363159be-94c0-4964-8caf-7b5024f5d580")
+	)
+	(pad "22" thru_hole oval
+		(at 2.50005 -3.75 90)
+		(size 4 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "368f26b2-e1e3-4dc8-9918-e35ed8bc18ba")
+	)
+	(pad "24" thru_hole oval
+		(at 12.50005 -3.75 90)
+		(size 4 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "94c92f41-fcae-4356-98ad-179b5cb0a439")
+	)
+	(pad "A1" thru_hole oval
+		(at -12.49997 3.75 90)
+		(size 4 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b1bc2b21-4d91-4ebe-941e-de096e8aeaff")
+	)
+	(pad "A2" thru_hole oval
+		(at -12.49997 -3.75 90)
+		(size 4 2)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "54378243-d404-42c6-9c1f-2832afcd6f8f")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_3D/REL_FINDER_40.52.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

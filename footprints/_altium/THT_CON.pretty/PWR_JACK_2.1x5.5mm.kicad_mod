@@ -1,0 +1,149 @@
+(footprint "PWR_JACK_2.1x5.5mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Power Connector, 2.1mm ID, 5.5mm OD")
+	(property "Reference" "REF**"
+		(at -0.7 -0.95 0)
+		(layer "F.SilkS")
+		(uuid "94035773-7e8c-427d-b7f9-49534117acfb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PWR_JACK_2.1x5.5mm"
+		(at -0.7 16 0)
+		(layer "F.Fab")
+		(uuid "8205a71c-ec27-4b0b-854d-fb88d24c3471")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5cc97416-74a3-4726-a437-39b95f55df5c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6da65d14-da0b-4f12-be3b-ae10bd4a59bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e3708a42-b83b-4bc1-a255-f29bbfd2ceb5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -4.9 0)
+		(end 4.5 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6e289fc0-8484-4215-821e-a9c451c6d849")
+	)
+	(fp_line
+		(start -4.9 8)
+		(end -4.9 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "40a5de92-a5b1-4e54-b915-ba0e062ef8d1")
+	)
+	(fp_line
+		(start -4.9 14.4)
+		(end -4.9 13.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ae2a1ef7-a6e3-4d14-830c-08946faed0d2")
+	)
+	(fp_line
+		(start -4.9 14.4)
+		(end -3 14.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "538099f0-86d3-440a-966b-e191390faac5")
+	)
+	(fp_line
+		(start 3 14.4)
+		(end 4.5 14.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1482ba3b-4e38-46f3-8fff-40ccd90a1cda")
+	)
+	(fp_line
+		(start 4.5 14.4)
+		(end 4.5 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "56fa0747-7ffc-427f-92b1-bd16ea6f5627")
+	)
+	(pad "1" thru_hole oval
+		(at 0 13.7)
+		(size 5 3.2)
+		(drill oval 2.5 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ab9116ff-4f24-4aaf-bb77-b7d8592f1efd")
+	)
+	(pad "2" thru_hole oval
+		(at 0 7.7)
+		(size 5 3)
+		(drill oval 2.7 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c2066739-90ad-4ecf-9957-edad45122c06")
+	)
+	(pad "3" thru_hole oval
+		(at -4.5 10.7)
+		(size 3 5)
+		(drill oval 1 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "de2e8503-35c8-4059-8d82-57a2e7e16b04")
+	)
+)

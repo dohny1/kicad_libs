@@ -1,0 +1,218 @@
+(footprint "SOT89"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "SOT89, 3-Leads, Body 4.50x2.45mm, Pitch 1.50mm, Lead Span 4.1mm, IPC Medium Density")
+	(property "Reference" "REF**"
+		(at -0.1 -3.3 0)
+		(layer "F.SilkS")
+		(uuid "59f441b6-eba4-4ea4-af6d-de641a4deee7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SOT89"
+		(at -0.1 3.1 0)
+		(layer "F.Fab")
+		(uuid "ca6ef2db-51dd-43ae-8db1-20f2c022f2ba")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4019937c-48c7-4db1-89d0-08e08c6ef982")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bac344a2-5a89-40f7-b4a8-abf40052c17c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "09541c13-7515-43e9-87f5-e7c69d714179")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -1.2775 -2.3)
+		(end 1.3225 -2.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "81b5f009-83cb-442d-b45a-6580456bebf7")
+	)
+	(fp_line
+		(start -1.2775 2.3)
+		(end 1.3225 2.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "81c107a5-f42c-4bfe-97ac-decea26cbccf")
+	)
+	(fp_line
+		(start 1.3225 -1.35)
+		(end 1.3225 -2.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9872d192-84cd-41a9-bf9b-b0ca3488809a")
+	)
+	(fp_line
+		(start 1.3225 2.3)
+		(end 1.3225 1.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cfbdea50-2e8a-4326-b104-a518d6670561")
+	)
+	(fp_circle
+		(center -1.9275 -2.35)
+		(end -1.9275 -2.475)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "521d5480-e4b3-477a-baa6-3f90065b04cc")
+	)
+	(fp_line
+		(start -2.75 -2.55)
+		(end 2.75 -2.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "e6ffc30e-9d21-41c6-bd6f-534ab47016d4")
+	)
+	(fp_line
+		(start -2.75 2.55)
+		(end -2.75 -2.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "87d3206d-dc6e-45eb-bb11-261fece32bad")
+	)
+	(fp_line
+		(start -2.75 2.55)
+		(end 2.75 2.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "07cb93c8-4c08-4936-894f-78e8d8ec33d5")
+	)
+	(fp_line
+		(start 2.75 2.55)
+		(end 2.75 -2.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "aa81286a-632c-4efa-8d9d-ad8710032b5f")
+	)
+	(fp_line
+		(start -0.4775 0)
+		(end 0.5225 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.4")
+		(uuid "ea8dce77-9a28-40ef-af2b-627c258f3da1")
+	)
+	(fp_line
+		(start 0.0225 0.5)
+		(end 0.0225 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.4")
+		(uuid "6631d85c-1606-48e4-92c4-cec1b8049e90")
+	)
+	(pad "1" smd roundrect
+		(at -1.8 -1.5 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "6a7cd094-e448-488f-bf64-5adb8121cb3d")
+	)
+	(pad "2" smd roundrect
+		(at -1.6 0 90)
+		(size 0.6 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "93be1ad9-9225-4a08-b904-6e3ba972810b")
+	)
+	(pad "2" smd custom
+		(at -0.9 -0.3)
+		(size 0.000001 0.000001)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0 0) (xy 0.2 0) (xy 0.85 -0.65) (xy 2.75 -0.65) (xy 3.2 -0.2) (xy 3.2 0.8) (xy 2.75 1.25) (xy 0.85 1.25)
+					(xy 0.2 0.6) (xy 0 0.6)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "3de8c2ba-4843-43e9-9b63-7c10c1429f03")
+	)
+	(pad "3" smd roundrect
+		(at -1.8 1.5 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "dc5ad02a-ea7c-4d2a-a183-a9896cbc6171")
+	)
+)

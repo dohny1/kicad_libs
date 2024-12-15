@@ -1,0 +1,155 @@
+(footprint "CAP_ELYT_5X11.5x2"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.26825 -3.3635 0)
+		(layer "F.SilkS")
+		(uuid "2b0f9301-ac6a-48f6-b983-0d10bed2dc72")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CAP_ELYT_5X11.5x2"
+		(at 0.26825 3.3635 0)
+		(layer "F.Fab")
+		(uuid "803cd9cb-81b1-46c8-b676-f30f42821755")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4716c19e-6c4c-4be8-90fa-461bfde3077c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "354b77a4-169b-4eae-9837-cd4a2c764a69")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "87d679b2-788f-4059-ba10-2292bfddbf69")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_arc
+		(start 2.49615 -1.664102)
+		(mid 3 -0.000001)
+		(end 2.496151 1.664101)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "28c7d8ba-8aa7-459b-ada3-3ba56fcefc8a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -2.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "928c6cc4-dd58-43f5-8e7f-de2f5e7db7a0")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -2.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "b840c21f-a804-4e33-a054-92fbf0795c41")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -0.15)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "ce1bd974-a924-4f54-b781-879e91d0c246")
+	)
+	(fp_text_box ""
+		(start -1.5 2.1)
+		(end -1.5 2.1)
+		(layer "F.Cu")
+		(uuid "8532940d-2b43-4ddf-a413-a641760c64eb")
+		(effects
+			(font
+				(size 1.627 1.5)
+				(thickness 0.127)
+			)
+			(justify left bottom)
+		)
+		(border yes)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at -1 0)
+		(size 1.2 1.2)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "cecce64b-4ca3-435c-919d-3a5a0106057b")
+	)
+	(pad "2" thru_hole circle
+		(at 1 0)
+		(size 1.2 1.2)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "aa941e89-7400-4538-adfa-ca6a97c48e0d")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_3D/User Library-CE_R100_D200_H460.step"
+		(offset
+			(xyz 0 0 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+)

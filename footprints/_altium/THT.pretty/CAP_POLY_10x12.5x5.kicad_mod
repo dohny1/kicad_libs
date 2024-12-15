@@ -1,0 +1,152 @@
+(footprint "CAP_POLY_10x12.5x5"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.124999 -5.7635 0)
+		(layer "F.SilkS")
+		(uuid "633537e2-9960-4f20-9851-fe869d85b077")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CAP_POLY_10x12.5x5"
+		(at 0.124999 5.7635 0)
+		(layer "F.Fab")
+		(uuid "368569f7-ff88-4611-a9e9-e2395ceeb160")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee96bb2b-3afb-4c66-9c0b-d1c112ea8c72")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "42c8ea0c-db4c-474e-bf97-3abed7b0b30f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b72b39c3-f7ae-40f6-af89-583310a8226a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_arc
+		(start 4.3632 -3.348504)
+		(mid 5.49991 0.031345)
+		(end 4.32475 3.398019)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "49729d68-6bf9-40e5-b75d-601a66ac3df4")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "1d8ff85c-49d6-419b-b915-e0ca63a3744f")
+	)
+	(fp_poly
+		(pts
+			(xy 2.5 -4.3) (xy 2.6 -4.3) (xy 2.9 -4.1) (xy 3.1 -4) (xy 4 -3.1) (xy 4 -2.9) (xy 4.4 -2.5) (xy 4.4 -2.3)
+			(xy 4.6 -2.1) (xy 4.6 -1.8) (xy 4.8 -1.6) (xy 4.8 -1.2) (xy 4.9 -1.1) (xy 5 -0.7) (xy 5 0.7) (xy 4.9 0.8)
+			(xy 4.9 1.2) (xy 4.8 1.3) (xy 4.8 1.6) (xy 4.6 1.8) (xy 4.6 2.1) (xy 4.4 2.3) (xy 4.4 2.5) (xy 4.3 2.5)
+			(xy 4.2 2.6) (xy 4.2 2.8) (xy 3.8 3.2) (xy 3.8 3.3) (xy 3.7 3.3) (xy 2.9 4.1) (xy 2.8 4.1) (xy 2.5 4.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "6b666a7e-2c79-4ad0-821a-30daa9f2cc0c")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -5.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "30bb4499-5bd8-4c63-8ca5-58ba3c690b05")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -0.2)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "3b21cc55-2cba-4930-9bbb-ffab59a9846b")
+	)
+	(pad "1" thru_hole roundrect
+		(at -2.5 0)
+		(size 2 2)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "2b6741cf-fe69-4394-abcc-f9ff5f156f62")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0)
+		(size 2 2)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "90d5e1f3-40b7-47a2-81df-61d2375a7e0f")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_3D/User Library-CAPPR500-1000x1200_330uF_16V.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
+)

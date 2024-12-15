@@ -1,0 +1,149 @@
+(footprint "CONN_PWR_JACK_2.1x5.5mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Power Connector, 2.1mm ID, 5.5mm OD")
+	(property "Reference" "REF**"
+		(at -0.7 -0.95 0)
+		(layer "F.SilkS")
+		(uuid "11efb9b0-7865-4e28-9444-8d15dff6e510")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONN_PWR_JACK_2.1x5.5mm"
+		(at -0.7 16 0)
+		(layer "F.Fab")
+		(uuid "7387c92a-db55-47e2-a376-35ec7da3bb3e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7be00f6-c4bb-487f-9041-8ab345ce5f7e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98ce67c4-a3fa-4dd3-8605-708743661e2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13bf57ca-bf76-4f3e-bbdc-86b3f10bf91a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -4.9 0)
+		(end 4.5 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "edf56b3a-3a99-45a3-a3e9-f78c4a82518a")
+	)
+	(fp_line
+		(start -4.9 8)
+		(end -4.9 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8d610053-ae30-4f87-bad2-1cc6de1efe43")
+	)
+	(fp_line
+		(start -4.9 14.4)
+		(end -4.9 13.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "184126f0-e399-49e4-b2d0-e90065788e8e")
+	)
+	(fp_line
+		(start -4.9 14.4)
+		(end -3 14.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1c28a87b-8b0e-4385-8891-082045e25231")
+	)
+	(fp_line
+		(start 3 14.4)
+		(end 4.5 14.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "456735e3-c687-499f-b46f-64f6cc4bc4fa")
+	)
+	(fp_line
+		(start 4.5 14.4)
+		(end 4.5 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8c7b205c-13f1-4e8f-9402-327643485e75")
+	)
+	(pad "1" thru_hole oval
+		(at 0 13.7)
+		(size 5 3.2)
+		(drill oval 2.5 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f0c71df7-7667-4fb4-bd3f-90bec7ea37ea")
+	)
+	(pad "2" thru_hole oval
+		(at 0 7.7)
+		(size 5 3)
+		(drill oval 2.7 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e5f34484-2865-4fe7-87a2-f952c3c5a027")
+	)
+	(pad "3" thru_hole oval
+		(at -4.5 10.7)
+		(size 3 5)
+		(drill oval 1 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "80a327ee-9c36-45fe-a79a-83e0b5e2d204")
+	)
+)

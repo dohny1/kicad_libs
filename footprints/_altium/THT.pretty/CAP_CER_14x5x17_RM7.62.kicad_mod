@@ -1,0 +1,382 @@
+(footprint "CAP_CER_14x5x17_RM7.62"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Capacitor Radial Button, Pin spacing 7.62mm - Body Diameter  14mm X Body Width 5mm X Body Height 17mm")
+	(property "Reference" "REF**"
+		(at 0 -3.3 0)
+		(layer "F.SilkS")
+		(uuid "cce40df5-d65d-4bde-ba0d-3872521c280b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CAP_CER_14x5x17_RM7.62"
+		(at 0 3.3 0)
+		(layer "F.Fab")
+		(uuid "1da35b6d-aaf7-4618-8594-a6bb7f7763e4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37d79f83-30c3-4dcb-bbce-5ef045472fc9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b133edba-7133-4c59-aace-6303fcbcb7b0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8ec8abd6-4b2f-480b-8f1a-011ab5773820")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -7 0.5)
+		(end -7 -0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "99684012-5fbd-403c-b05a-4d9803b21665")
+	)
+	(fp_line
+		(start -5 -2.5)
+		(end 5 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "798e5dab-7369-448d-8a03-33b2d7b0da13")
+	)
+	(fp_line
+		(start -5 2.5)
+		(end 5 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ef342a51-c473-4efc-98d9-4f05fae027b4")
+	)
+	(fp_line
+		(start 7 0.5)
+		(end 7 -0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b8dac826-8e24-4fd3-b034-fb1a9773730e")
+	)
+	(fp_arc
+		(start -7 -0.5)
+		(mid -6.414214 -1.914214)
+		(end -5 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6a75ed78-a4c2-4086-89f1-c2b671085e68")
+	)
+	(fp_arc
+		(start -5 2.5)
+		(mid -6.414214 1.914214)
+		(end -7 0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bfa64857-c1d7-44e7-b233-8d8594a70784")
+	)
+	(fp_arc
+		(start 5 -2.5)
+		(mid 6.414214 -1.914214)
+		(end 7 -0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1da38744-139c-4d04-9eaf-9af81e813fcf")
+	)
+	(fp_arc
+		(start 7 0.5)
+		(mid 6.414214 1.914214)
+		(end 5 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1799efbb-aa0b-463a-b314-d0515cde0e92")
+	)
+	(fp_line
+		(start -7 0.5)
+		(end -7 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "c71732cf-237f-4df0-81be-473e47d0cf8a")
+	)
+	(fp_line
+		(start -5 -2.5)
+		(end 5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "b7f5a448-4c5f-4cfe-be8b-2cd2b7b50601")
+	)
+	(fp_line
+		(start -5 2.5)
+		(end 5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "54612727-064b-49e0-99dc-d86918f5a87d")
+	)
+	(fp_line
+		(start 7 0.5)
+		(end 7 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "42946041-3f6d-46a2-bd72-43681a1221e7")
+	)
+	(fp_arc
+		(start -7 -0.5)
+		(mid -6.414214 -1.914214)
+		(end -5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "decd6ce9-7506-43c7-8cdb-8185f121e658")
+	)
+	(fp_arc
+		(start -5 2.5)
+		(mid -6.414214 1.914214)
+		(end -7 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "4befca6c-be38-4a8f-8247-8271a12b7ceb")
+	)
+	(fp_arc
+		(start 5 -2.5)
+		(mid 6.414214 -1.914214)
+		(end 7 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "5221e914-9994-4e8c-b86b-c1417a8a48cc")
+	)
+	(fp_arc
+		(start 7 0.5)
+		(mid 6.414214 1.914214)
+		(end 5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "62e0f59f-7629-4aa2-8afe-49091597535f")
+	)
+	(fp_line
+		(start -4.81 0)
+		(end -3.81 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "3df85d8a-4efe-4317-8346-031fad0d7b43")
+	)
+	(fp_line
+		(start -3.81 0)
+		(end -3.81 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "ea8d8e0a-926a-44cd-acd2-e9b13f4e9221")
+	)
+	(fp_line
+		(start -3.81 0)
+		(end -2.81 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "e6739b0e-30c4-4687-8abd-bab9b6bbb606")
+	)
+	(fp_line
+		(start -3.81 1)
+		(end -3.81 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "e51d01a8-9349-4410-9723-17fdcfd22d83")
+	)
+	(fp_line
+		(start -1 0)
+		(end 0 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "d43ccac1-ffc7-48b0-b4ec-73039a6312e4")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "ce790fad-8b73-406e-8f89-4d5494b2cf3c")
+	)
+	(fp_line
+		(start 0 0)
+		(end 1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "7e389404-8e71-4cd7-8af4-2114002da09a")
+	)
+	(fp_line
+		(start 0 1)
+		(end 0 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "44bcf07b-fb9f-4c3e-a097-4d3e4f7e5211")
+	)
+	(fp_line
+		(start 2.81 0)
+		(end 3.81 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "9ec8b247-6cd5-44a7-a2a5-8fead53080ab")
+	)
+	(fp_line
+		(start 3.81 0)
+		(end 3.81 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "7dd4c934-a303-43ba-b58c-71a171d6fe5e")
+	)
+	(fp_line
+		(start 3.81 0)
+		(end 4.81 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "237bde8c-d8c2-4240-8a38-7fef91b2c5a4")
+	)
+	(fp_line
+		(start 3.81 1)
+		(end 3.81 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.8")
+		(uuid "795eba1e-e5cf-4787-9b6b-4c6d1fb8a6fc")
+	)
+	(pad "1" thru_hole circle
+		(at -3.81 0)
+		(size 2.5 2.5)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "787044b7-40e9-4166-8883-c900f71e1903")
+	)
+	(pad "2" thru_hole circle
+		(at 3.81 0)
+		(size 2.5 2.5)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "6564d540-4f22-4500-be96-778fb3b11272")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_3D/CAPRB_MURATA_DE2F3KY103MA3BM02.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

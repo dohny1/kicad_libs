@@ -1,0 +1,159 @@
+(footprint "SPUN02_MW"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 7.5 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "89788ddd-3111-4906-83e8-4c40e14c64d8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SPUN02_MW"
+		(at 7.5 6.4 0)
+		(layer "F.Fab")
+		(uuid "8ce4a74e-cea6-4846-aa59-2d6ac697b80f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e641b773-1971-4577-abc1-c22307d64781")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "44026f73-7c96-40a7-bbf6-2597d9f18311")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1cb43c0c-602e-4a7b-8f6b-0804f06a2a59")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -2.3 -1.7)
+		(end 17.3 -1.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "62733b16-d1e7-4ee3-9131-8c177de33388")
+	)
+	(fp_line
+		(start -2.3 5.6)
+		(end -2.3 -1.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "351d6a42-649d-4563-b753-4545b888fe47")
+	)
+	(fp_line
+		(start -2.3 5.6)
+		(end 17.3 5.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "007abff3-9e2b-454f-af7b-b6d770becd32")
+	)
+	(fp_line
+		(start 17.3 5.6)
+		(end 17.3 -1.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "40b5670c-d8f6-4e8d-a279-caa4a6bf9c4a")
+	)
+	(fp_poly
+		(pts
+			(xy -0.15001 -1.75) (xy -2.25 0.35) (xy -2.25 -1.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "3fb31274-ed37-4205-b59f-0dcf276bf17f")
+	)
+	(pad "1" thru_hole oval
+		(at 0 0 180)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a550bc56-4cdf-4d4b-b967-634478dbbdf9")
+	)
+	(pad "2" thru_hole oval
+		(at 2.54 0 180)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "83e00cf3-cc53-4fef-b685-54ab3e9cda9d")
+	)
+	(pad "5" thru_hole oval
+		(at 10.16 0 180)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "931a963f-bd10-47b9-ad19-9a6c0b9181f7")
+	)
+	(pad "7" thru_hole oval
+		(at 15.24 0 180)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6ea75945-a68d-495d-a3b7-3b3a2bd23f86")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_3D/SPUN02.STEP"
+		(offset
+			(xyz 7.5 -2 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

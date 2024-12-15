@@ -1,0 +1,262 @@
+(footprint "VAR_12x6.3_RM7.5"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "EPCOS S10K460 Metal Oxyde Varistor, Body 6.3X12mm")
+	(property "Reference" "REF**"
+		(at 0 -3.95 0)
+		(layer "F.SilkS")
+		(uuid "c905d2b0-89e9-475d-aaf9-b935299cb449")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "VAR_12x6.3_RM7.5"
+		(at 0 3.95 0)
+		(layer "F.Fab")
+		(uuid "5e0569b8-751b-460d-a67c-24d460f0902e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aca0b064-de03-4c2a-8737-0aed76b6ee79")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0f386d44-4166-40a9-ba0e-1d72b56a6fb8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "265f5754-5bda-450a-b50e-2f9e997dd192")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -6 1.88)
+		(end -6 -1.88)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7851c53c-87c2-4b75-a3ff-1ebb42867502")
+	)
+	(fp_line
+		(start -4.73 -3.15)
+		(end 4.73 -3.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8972fb27-154d-4bc8-9f65-646cb9b7434f")
+	)
+	(fp_line
+		(start -4.73 3.15)
+		(end 4.75 3.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "49ced216-dbae-470a-bc48-a29674c8926f")
+	)
+	(fp_line
+		(start 6 1.88)
+		(end 6 -1.88)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9f0ea3ef-b177-45d8-a76e-bd6e321ca4de")
+	)
+	(fp_arc
+		(start -6 -1.88)
+		(mid -5.628026 -2.778026)
+		(end -4.73 -3.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7985dd76-7ec0-46b5-9a81-79efa7d8d79a")
+	)
+	(fp_arc
+		(start -4.73 3.15)
+		(mid -5.628026 2.778026)
+		(end -6 1.88)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d4753418-03e0-4f81-bb59-040d34a89169")
+	)
+	(fp_arc
+		(start 4.73 -3.15)
+		(mid 5.628026 -2.778026)
+		(end 6 -1.88)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d8bf1ca1-efbc-4b39-8f12-23f1d7a2a67c")
+	)
+	(fp_arc
+		(start 6 1.88)
+		(mid 5.628026 2.778026)
+		(end 4.73 3.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b14b1770-d868-4499-9a2d-b3c4c4373a0c")
+	)
+	(fp_line
+		(start -6 1.88)
+		(end -6 -1.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "e71bf46d-698a-4d64-bbff-f0972770ec66")
+	)
+	(fp_line
+		(start -4.73 -3.15)
+		(end 4.73 -3.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "6174da43-a026-476a-a196-31ad1f8a6d63")
+	)
+	(fp_line
+		(start -4.73 3.15)
+		(end 4.73 3.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "2fe0ae93-96fe-483d-89df-f460be8c5e56")
+	)
+	(fp_line
+		(start 6 1.88)
+		(end 6 -1.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "a2d6d7b5-c351-4b64-a01b-73363b9cc974")
+	)
+	(fp_arc
+		(start -6 -1.88)
+		(mid -5.628026 -2.778026)
+		(end -4.73 -3.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "b16b2f6f-bfe4-436e-8d86-6e94d03d2f84")
+	)
+	(fp_arc
+		(start -4.73 3.15)
+		(mid -5.628026 2.778026)
+		(end -6 1.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "4c490cd6-daac-40a9-87ae-3aacaf68cdb4")
+	)
+	(fp_arc
+		(start 4.73 -3.15)
+		(mid 5.628026 -2.778026)
+		(end 6 -1.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "43032cf7-aa0d-4f5b-b637-417093c50122")
+	)
+	(fp_arc
+		(start 6 1.88)
+		(mid 5.628026 2.778026)
+		(end 4.73 3.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco2.User")
+		(uuid "90762c11-574e-40a6-be55-3d2d80b28a83")
+	)
+	(pad "1" thru_hole circle
+		(at -3.81 -1.5875)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "c77f9675-4a04-43cd-911b-7920f85c80dd")
+	)
+	(pad "2" thru_hole circle
+		(at 3.81 1.5875)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "2b3d5fde-e1c6-4244-b999-65bc67c5bbc0")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_3D/VAR_EPCOS_B72210S0461K101.stp"
+		(offset
+			(xyz 0 0 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

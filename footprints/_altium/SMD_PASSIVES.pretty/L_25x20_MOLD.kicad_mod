@@ -1,0 +1,160 @@
+(footprint "L_25x20_MOLD"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.827 0)
+		(layer "F.SilkS")
+		(uuid "a08ebcb8-64a0-4d07-8e43-76a08f8bd9ee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_25x20_MOLD"
+		(at 0 1.827 0)
+		(layer "F.Fab")
+		(uuid "5ff6c585-8480-4a81-afeb-cd2a74661902")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "741922fe-bef8-460f-ac52-ce3ebda7e651")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d6cd2ca-5ad1-4dfa-8262-e36c256c7b26")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dda754c5-5162-4ab0-9795-a29aa9e6da25")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -0.5 -1)
+		(end 0.5 -1)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aa2c14b0-cc58-4770-88e5-afba87500a3f")
+	)
+	(fp_line
+		(start -0.5 1)
+		(end 0.5 1)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0a94abaf-e491-4901-b3c6-d74c45ff1edf")
+	)
+	(fp_line
+		(start -1.7 -1.1)
+		(end 1.7 -1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9f01f561-353b-43a4-b9c4-56a6477c23d7")
+	)
+	(fp_line
+		(start -1.7 1.1)
+		(end -1.7 -1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "98ee1853-d291-4c9e-b8b7-a38ff426480a")
+	)
+	(fp_line
+		(start -1.7 1.1)
+		(end 1.7 1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "72b9794e-7a18-4fa1-a1a0-13073908537d")
+	)
+	(fp_line
+		(start 1.7 1.1)
+		(end 1.7 -1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "358db24f-97e7-4b8d-8665-595a50a406be")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -0.0635)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.CrtYd")
+		(uuid "9bd326c4-e5c3-432f-aeba-b450b066a786")
+	)
+	(pad "1" smd roundrect
+		(at -1 0)
+		(size 0.9 1.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "99f38b97-5515-49eb-8b28-3833850207e0")
+	)
+	(pad "2" smd roundrect
+		(at 1 0)
+		(size 0.9 1.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "f756ad85-9800-4d95-8a2e-d01ecb836ebf")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/_PASSIVES_3D/User Library-INDM2520X190N.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
