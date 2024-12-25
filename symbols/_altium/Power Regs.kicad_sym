@@ -4191,7 +4191,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -4203,7 +4202,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -4674,7 +4672,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -4686,7 +4683,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -5157,7 +5153,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -5169,7 +5164,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -5676,7 +5670,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -5688,7 +5681,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -12106,7 +12098,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "IC"
-			(at -1.27 1.27 0)
+			(at 1.524 2.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12114,7 +12106,7 @@
 			)
 		)
 		(property "Value" "TL431ACLP"
-			(at -1.27 -3.81 0)
+			(at 0.762 -3.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12123,7 +12115,7 @@
 			)
 		)
 		(property "Footprint" "THT:TO-92"
-			(at 0 0 0)
+			(at 8.89 3.556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12141,7 +12133,7 @@
 			)
 		)
 		(property "Description" "2,495V; ±1%; 100mA; TO-92"
-			(at 0 0 0)
+			(at 4.826 5.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12173,43 +12165,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -2.54) (xy 0 -1.27)
-				)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 2.54) (xy 0 1.27)
-				)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
 					(xy 1.524 1.27) (xy 1.524 0.762)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 0) (xy 0.762 0)
 				)
 				(stroke
 					(width 0.254)
@@ -12232,8 +12188,8 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
-				(length 2.54)
+				(at 2.54 0 180)
+				(length 1.7272)
 				(name "R"
 					(effects
 						(font
@@ -12250,7 +12206,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -5.08 90)
+				(at 0 -3.81 90)
 				(length 2.54)
 				(name "A"
 					(effects
@@ -12268,7 +12224,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 5.08 270)
+				(at 0 3.81 270)
 				(length 2.54)
 				(name "K"
 					(effects
@@ -12359,43 +12315,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -2.54) (xy 0 -1.27)
-				)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 2.54) (xy 0 1.27)
-				)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
 					(xy 1.524 1.27) (xy 1.524 0.762)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 0) (xy 0.762 0)
 				)
 				(stroke
 					(width 0.254)
@@ -12418,7 +12338,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 5.08 270)
+				(at 0 3.81 270)
 				(length 2.54)
 				(name "K"
 					(effects
@@ -12436,8 +12356,8 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
-				(length 2.54)
+				(at 2.54 0 180)
+				(length 1.7272)
 				(name "R"
 					(effects
 						(font
@@ -12454,7 +12374,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -5.08 90)
+				(at 0 -3.81 90)
 				(length 2.54)
 				(name "A"
 					(effects

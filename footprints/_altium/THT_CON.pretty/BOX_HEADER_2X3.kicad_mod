@@ -159,7 +159,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Eco2.User")
+		(layer "F.CrtYd")
 		(uuid "1e00cd0a-d7cb-47c5-8080-aad0235bff35")
 	)
 	(fp_line
@@ -169,7 +169,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Eco2.User")
+		(layer "F.CrtYd")
 		(uuid "e9ee0eb9-86be-46e8-960d-c36116ca52aa")
 	)
 	(fp_line
@@ -179,7 +179,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Eco2.User")
+		(layer "F.CrtYd")
 		(uuid "e030f843-3116-411b-9602-2b17fb7c524f")
 	)
 	(fp_line
@@ -189,7 +189,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Eco2.User")
+		(layer "F.CrtYd")
 		(uuid "42970e6f-79a7-4dae-9cd1-073973099b5a")
 	)
 	(fp_line
@@ -199,7 +199,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(layer "Eco2.User")
+		(layer "F.CrtYd")
 		(uuid "dcc7f464-7a66-4790-80d7-be7efda68551")
 	)
 	(fp_circle
@@ -210,7 +210,7 @@
 			(type solid)
 		)
 		(fill none)
-		(layer "Eco2.User")
+		(layer "F.CrtYd")
 		(uuid "57680bd2-31f2-4e9e-b57e-8dbfb4429a6d")
 	)
 	(pad "1" thru_hole roundrect
@@ -266,5 +266,16 @@
 		(remove_unused_layers no)
 		(thermal_bridge_angle 90)
 		(uuid "4dff637b-61b0-4545-9d8a-39e313070b0a")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_CON_3D/61200621621.stp"
+		(offset
+			(xyz 0 0 4.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )

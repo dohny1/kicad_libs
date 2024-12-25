@@ -699,7 +699,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -712,7 +711,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -725,7 +723,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -773,7 +770,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -1193,7 +1189,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -1206,7 +1201,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -1219,7 +1213,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -1267,7 +1260,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -2020,7 +2012,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type background)
@@ -2092,7 +2083,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -2104,7 +2094,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type background)
@@ -2116,7 +2105,6 @@
 				(stroke
 					(width 0.0254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -2202,7 +2190,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type background)
@@ -2274,7 +2261,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -2286,7 +2272,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type background)
@@ -2298,7 +2283,6 @@
 				(stroke
 					(width 0.0254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -2488,7 +2472,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type background)
@@ -2560,7 +2543,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -2572,7 +2554,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type background)
@@ -2584,7 +2565,6 @@
 				(stroke
 					(width 0.0254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -2670,7 +2650,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type background)
@@ -2742,7 +2721,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -2754,7 +2732,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type background)
@@ -2766,7 +2743,6 @@
 				(stroke
 					(width 0.0254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -4086,7 +4062,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -5109,6 +5084,402 @@
 			)
 			(pin power_in line
 				(at 0 6.35 270)
+				(length 3.81)
+				(name "V+"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "NE5534AD_DIP"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "IC"
+			(at -0.254 0.254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NE5534AD"
+			(at -0.254 -12.954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "THT:DIP8"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BJT, 3.5nV/√Hz at 1kHz, 13V/μs, 10MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*DIP8*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "NE5534AD_DIP_1_0"
+			(polyline
+				(pts
+					(xy -2.032 -2.54) (xy -0.508 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 2.54) (xy -0.508 2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.778) (xy -1.27 -3.302)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -5.08) (xy -2.54 5.08) (xy 7.62 0) (xy -2.54 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -7.62 2.54 0)
+				(length 5.08)
+				(name "IN-"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -7.62 -2.54 0)
+				(length 5.08)
+				(name "IN+"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 -6.35 90)
+				(length 3.81)
+				(name "V-"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 12.7 0 180)
+				(length 5.08)
+				(name "OUT"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 6.35 270)
+				(length 3.81)
+				(name "V+"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "NE5534AD_DIP_flipped"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "IC"
+			(at -0.254 0.254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NE5534AD"
+			(at -0.254 -12.954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "THT:DIP8"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BJT, 3.5nV/√Hz at 1kHz, 13V/μs, 10MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*DIP8*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "NE5534AD_DIP_flipped_1_0"
+			(polyline
+				(pts
+					(xy -2.032 -2.54) (xy -0.508 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 2.54) (xy -0.508 2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.778) (xy -1.27 -3.302)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -5.08) (xy -2.54 5.08) (xy 7.62 0) (xy -2.54 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -7.62 2.54 0)
+				(length 5.08)
+				(name "IN-"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -7.62 -2.54 0)
+				(length 5.08)
+				(name "IN+"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 6.35 270)
+				(length 3.81)
+				(name "V-"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 12.7 0 180)
+				(length 5.08)
+				(name "OUT"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 -6.35 90)
 				(length 3.81)
 				(name "V+"
 					(effects
@@ -7513,7 +7884,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -7526,7 +7896,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -7539,7 +7908,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -7552,7 +7920,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -7565,7 +7932,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -7578,7 +7944,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -7614,7 +7979,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)

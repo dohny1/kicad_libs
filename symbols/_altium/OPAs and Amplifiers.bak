@@ -10,7 +10,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -18,7 +18,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -326,7 +326,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -334,7 +334,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -642,7 +642,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -650,12 +650,12 @@
 			(at 8.128 -8.128 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:LFCSP16"
+		(property "Footprint" "SMD_SEMI:LFCSP16"
 			(at 0 0 0)
 			(effects
 				(font
@@ -699,7 +699,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -712,7 +711,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -725,7 +723,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -773,7 +770,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1136,7 +1132,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -1144,12 +1140,12 @@
 			(at 4.572 -8.636 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:LFCSP16"
+		(property "Footprint" "SMD_SEMI:LFCSP16"
 			(at 13.97 10.922 0)
 			(effects
 				(font
@@ -1193,7 +1189,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1206,7 +1201,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1219,7 +1213,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1267,7 +1260,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1630,7 +1622,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -1638,12 +1630,12 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:EXOPA"
+		(property "Footprint" "THT:EXOPA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1860,7 +1852,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -1868,12 +1860,12 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:QFN24"
+		(property "Footprint" "SMD_SEMI:QFN24"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2020,7 +2012,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -2092,7 +2083,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2104,7 +2094,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -2116,7 +2105,6 @@
 				(stroke
 					(width 0.0254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2202,7 +2190,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -2274,7 +2261,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2286,7 +2272,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -2298,7 +2283,6 @@
 				(stroke
 					(width 0.0254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2488,7 +2472,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -2560,7 +2543,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2572,7 +2554,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -2584,7 +2565,6 @@
 				(stroke
 					(width 0.0254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2670,7 +2650,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -2742,7 +2721,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2754,7 +2732,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -2766,7 +2743,6 @@
 				(stroke
 					(width 0.0254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2994,7 +2970,7 @@
 			(at -7.62 7.62 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3002,12 +2978,12 @@
 			(at -7.62 -10.16 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-5"
+		(property "Footprint" "SMD_SEMI:SOT23-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3156,7 +3132,7 @@
 			(at -7.62 7.62 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3164,12 +3140,12 @@
 			(at -7.62 -10.16 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-5"
+		(property "Footprint" "SMD_SEMI:SOT23-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3318,7 +3294,7 @@
 			(at -7.62 7.62 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3326,12 +3302,12 @@
 			(at -7.62 -10.16 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-6"
+		(property "Footprint" "SMD_SEMI:SOT23-6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3498,7 +3474,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3506,7 +3482,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -3814,7 +3790,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3822,7 +3798,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -4086,7 +4062,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4123,7 +4098,7 @@
 				(at 18.034 4.318 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -4132,7 +4107,7 @@
 				(at 2.794 4.318 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -4291,7 +4266,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4299,7 +4274,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -4607,7 +4582,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4615,12 +4590,12 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:DIP8"
+		(property "Footprint" "THT:DIP8"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4923,7 +4898,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4931,7 +4906,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -5127,6 +5102,402 @@
 			)
 		)
 	)
+	(symbol "NE5534AD_DIP"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "IC"
+			(at -0.254 0.254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NE5534AD"
+			(at -0.254 -12.954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "THT:DIP8"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BJT, 3.5nV/√Hz at 1kHz, 13V/μs, 10MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*DIP8*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "NE5534AD_DIP_1_0"
+			(polyline
+				(pts
+					(xy -2.032 -2.54) (xy -0.508 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 2.54) (xy -0.508 2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.778) (xy -1.27 -3.302)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -5.08) (xy -2.54 5.08) (xy 7.62 0) (xy -2.54 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -7.62 2.54 0)
+				(length 5.08)
+				(name "IN-"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -7.62 -2.54 0)
+				(length 5.08)
+				(name "IN+"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 -6.35 90)
+				(length 3.81)
+				(name "V-"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 12.7 0 180)
+				(length 5.08)
+				(name "OUT"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 6.35 270)
+				(length 3.81)
+				(name "V+"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "NE5534AD_DIP_flipped"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "IC"
+			(at -0.254 0.254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NE5534AD"
+			(at -0.254 -12.954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "THT:DIP8"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BJT, 3.5nV/√Hz at 1kHz, 13V/μs, 10MHz"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*DIP8*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "NE5534AD_DIP_flipped_1_0"
+			(polyline
+				(pts
+					(xy -2.032 -2.54) (xy -0.508 -2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 2.54) (xy -0.508 2.54)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.778) (xy -1.27 -3.302)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -5.08) (xy -2.54 5.08) (xy 7.62 0) (xy -2.54 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -7.62 2.54 0)
+				(length 5.08)
+				(name "IN-"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -7.62 -2.54 0)
+				(length 5.08)
+				(name "IN+"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 6.35 270)
+				(length 3.81)
+				(name "V-"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 12.7 0 180)
+				(length 5.08)
+				(name "OUT"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 -6.35 90)
+				(length 3.81)
+				(name "V+"
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 	(symbol "NE5534D"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5135,7 +5506,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5143,7 +5514,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -5347,7 +5718,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5355,12 +5726,12 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:DMP8"
+		(property "Footprint" "SMD_SEMI:DMP8"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5663,7 +6034,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5671,12 +6042,12 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:DMP8"
+		(property "Footprint" "SMD_SEMI:DMP8"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5979,7 +6350,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5987,12 +6358,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:DIP8"
+		(property "Footprint" "THT:DIP8"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6191,7 +6562,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6199,7 +6570,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -6507,7 +6878,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6515,7 +6886,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -6719,7 +7090,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6727,7 +7098,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -7035,7 +7406,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7043,7 +7414,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -7067,7 +7438,7 @@
 			)
 		)
 		(property "Description" "BJT, RRO, 2.8nV/√Hz at 1kHz, 10V/μs, 32MHz, High output current"
-			(at 0 0 0)
+			(at 34.29 -6.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7456,7 +7827,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7464,12 +7835,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:MSOP8"
+		(property "Footprint" "SMD_SEMI:MSOP8"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7513,7 +7884,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7526,7 +7896,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7539,7 +7908,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7552,7 +7920,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7565,7 +7932,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7578,7 +7944,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7601,7 +7966,7 @@
 					(xy 5.08 2.54) (xy 3.556 2.54)
 				)
 				(stroke
-					(width 0.254)
+					(width 0)
 					(type solid)
 				)
 				(fill
@@ -7614,7 +7979,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7830,7 +8194,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7838,7 +8202,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -7986,30 +8350,6 @@
 		(symbol "OPA1641_2_0"
 			(polyline
 				(pts
-					(xy 0 -3.81) (xy 0 -2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 3.81) (xy 0 2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
 					(xy -5.08 -5.08) (xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08)
 				)
 				(stroke
@@ -8021,7 +8361,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -7.62 90)
+				(at 0 -6.35 90)
 				(length 3.81)
 				(name "V-"
 					(effects
@@ -8039,7 +8379,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 7.62 270)
+				(at 0 6.35 270)
 				(length 3.81)
 				(name "V+"
 					(effects
@@ -8066,7 +8406,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8074,7 +8414,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -8326,30 +8666,6 @@
 		(symbol "OPA1642_3_0"
 			(polyline
 				(pts
-					(xy 0 -3.81) (xy 0 -2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 3.81) (xy 0 2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
 					(xy -5.08 -5.08) (xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08)
 				)
 				(stroke
@@ -8361,7 +8677,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -7.62 90)
+				(at 0 -6.35 90)
 				(length 3.81)
 				(name "V-"
 					(effects
@@ -8379,7 +8695,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 7.62 270)
+				(at 0 6.35 270)
 				(length 3.81)
 				(name "V+"
 					(effects
@@ -8406,7 +8722,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8414,7 +8730,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -8666,30 +8982,6 @@
 		(symbol "OPA1656_3_0"
 			(polyline
 				(pts
-					(xy 0 -3.81) (xy 0 -2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 3.81) (xy 0 2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
 					(xy -5.08 -5.08) (xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08)
 				)
 				(stroke
@@ -8701,7 +8993,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -7.62 90)
+				(at 0 -6.35 90)
 				(length 3.81)
 				(name "V-"
 					(effects
@@ -8719,7 +9011,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 7.62 270)
+				(at 0 6.35 270)
 				(length 3.81)
 				(name "V+"
 					(effects
@@ -8746,7 +9038,7 @@
 			(at -0.254 0.254 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8754,7 +9046,7 @@
 			(at -0.254 -12.954 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -9006,30 +9298,6 @@
 		(symbol "OPA1688_3_0"
 			(polyline
 				(pts
-					(xy 0 -3.81) (xy 0 -2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 3.81) (xy 0 2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
 					(xy -5.08 -5.08) (xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08)
 				)
 				(stroke
@@ -9041,7 +9309,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -7.62 90)
+				(at 0 -6.35 90)
 				(length 3.81)
 				(name "V-"
 					(effects
@@ -9059,7 +9327,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 7.62 270)
+				(at 0 6.35 270)
 				(length 3.81)
 				(name "V+"
 					(effects

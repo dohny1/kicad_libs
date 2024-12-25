@@ -130,4 +130,15 @@
 		(remove_unused_layers no)
 		(uuid "b5528dab-a043-4bbd-8720-78912ea48456")
 	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_CON_3D/molex2pin.STEP"
+		(offset
+			(xyz -5.5 7.81 -1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )

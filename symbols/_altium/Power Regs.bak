@@ -10,7 +10,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -18,12 +18,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:TO-220H"
+		(property "Footprint" "THT:TO-220H"
 			(at 0 0 0)
 			(effects
 				(font
@@ -76,7 +76,7 @@
 				(at -2.54 -4.572 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -145,7 +145,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -153,12 +153,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:TO-220HS"
+		(property "Footprint" "THT:TO-220HS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -211,7 +211,7 @@
 				(at -2.54 -4.572 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -280,7 +280,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -288,12 +288,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOIC8"
+		(property "Footprint" "SMD_SEMI:SOIC8"
 			(at 0 0 0)
 			(effects
 				(font
@@ -496,7 +496,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -504,12 +504,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:DPAK"
+		(property "Footprint" "SMD_SEMI:DPAK"
 			(at 0 0 0)
 			(effects
 				(font
@@ -622,7 +622,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -630,12 +630,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-5"
+		(property "Footprint" "SMD_SEMI:SOT23-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -784,7 +784,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -792,12 +792,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-5"
+		(property "Footprint" "SMD_SEMI:SOT23-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -946,7 +946,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -954,12 +954,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT89"
+		(property "Footprint" "SMD_SEMI:SOT89"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1012,7 +1012,7 @@
 				(at -2.54 -4.572 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -1081,7 +1081,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -1089,12 +1089,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:VQFN-HR29"
+		(property "Footprint" "SMD_SEMI:VQFN-HR29"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1675,7 +1675,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -1683,7 +1683,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -2179,7 +2179,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2187,12 +2187,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:TO-92"
+		(property "Footprint" "THT:TO-92"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2245,7 +2245,7 @@
 				(at -2.54 -4.572 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -2314,7 +2314,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2322,12 +2322,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:TO-92"
+		(property "Footprint" "THT:TO-92"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2380,7 +2380,7 @@
 				(at -2.54 -4.572 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -2449,7 +2449,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2457,7 +2457,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -2809,7 +2809,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2817,7 +2817,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -3079,7 +3079,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3087,12 +3087,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:sot23-6"
+		(property "Footprint" "SMD_SEMI:sot23-6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3259,7 +3259,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3267,12 +3267,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:TO-92"
+		(property "Footprint" "THT:TO-92"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3325,7 +3325,7 @@
 				(at -2.54 -4.572 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -3394,7 +3394,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3402,12 +3402,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:TO-92"
+		(property "Footprint" "THT:TO-92"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3460,7 +3460,7 @@
 				(at -2.54 -4.572 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -3529,7 +3529,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3537,12 +3537,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:VQFN-HR9"
+		(property "Footprint" "SMD_SEMI:VQFN-HR9"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3763,7 +3763,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3771,7 +3771,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -3961,7 +3961,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3969,12 +3969,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-5"
+		(property "Footprint" "SMD_SEMI:SOT23-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4123,7 +4123,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4131,12 +4131,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:DFN10-3x3"
+		(property "Footprint" "SMD_SEMI:DFN10-3x3"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4191,7 +4191,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4203,7 +4202,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4606,7 +4604,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4614,7 +4612,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -4674,7 +4672,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4686,7 +4683,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5089,7 +5085,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5097,7 +5093,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -5157,7 +5153,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5169,7 +5164,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5608,7 +5602,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5616,7 +5610,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -5676,7 +5670,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5688,7 +5681,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6127,7 +6119,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6135,7 +6127,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -6397,7 +6389,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6405,12 +6397,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:MSOP16_EP"
+		(property "Footprint" "SMD_SEMI:MSOP16_EP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6775,7 +6767,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6783,12 +6775,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:MSOP8"
+		(property "Footprint" "SMD_SEMI:MSOP8"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6991,7 +6983,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6999,12 +6991,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:sot23-6"
+		(property "Footprint" "SMD_SEMI:sot23-6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7171,7 +7163,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7179,12 +7171,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:DFN8_2x2"
+		(property "Footprint" "SMD_SEMI:DFN8_2x2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7405,7 +7397,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7413,12 +7405,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:QFN28"
+		(property "Footprint" "SMD_SEMI:QFN28"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7999,7 +7991,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8007,12 +7999,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:QFN24_MAX77751"
+		(property "Footprint" "SMD_SEMI:QFN24_MAX77751"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8503,7 +8495,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8511,12 +8503,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:DFN10-3x3"
+		(property "Footprint" "SMD_SEMI:DFN10-3x3"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8773,7 +8765,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8781,12 +8773,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:sot23-6"
+		(property "Footprint" "SMD_SEMI:sot23-6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8953,7 +8945,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8961,7 +8953,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -9109,7 +9101,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -9117,12 +9109,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:UDFN6_2x2"
+		(property "Footprint" "SMD_SEMI:UDFN6_2x2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9307,7 +9299,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -9315,12 +9307,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:HVQFN24"
+		(property "Footprint" "SMD_SEMI:HVQFN24"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9829,7 +9821,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -9837,7 +9829,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -9985,7 +9977,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -9993,12 +9985,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:PowerPAK MLP55-27L"
+		(property "Footprint" "SMD_SEMI:PowerPAK MLP55-27L"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10597,7 +10589,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -10605,12 +10597,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:PowerPAK MLP55-27L"
+		(property "Footprint" "SMD_SEMI:PowerPAK MLP55-27L"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11209,7 +11201,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -11217,12 +11209,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:sot23-6"
+		(property "Footprint" "SMD_SEMI:sot23-6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11389,7 +11381,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -11397,12 +11389,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:MSOP10_EP"
+		(property "Footprint" "SMD_SEMI:MSOP10_EP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11659,7 +11651,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -11667,12 +11659,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:MSOP8"
+		(property "Footprint" "SMD_SEMI:MSOP8"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11875,7 +11867,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -11883,12 +11875,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:DFN8_4x4"
+		(property "Footprint" "SMD_SEMI:DFN8_4x4"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12106,24 +12098,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "IC"
-			(at -1.27 1.27 0)
+			(at 1.524 2.286 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
 		(property "Value" "TL431ACLP"
-			(at -1.27 -3.81 0)
+			(at 0.762 -3.302 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:TO-92"
-			(at 0 0 0)
+		(property "Footprint" "THT:TO-92"
+			(at 8.89 3.556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12141,7 +12133,7 @@
 			)
 		)
 		(property "Description" "2,495V; ±1%; 100mA; TO-92"
-			(at 0 0 0)
+			(at 4.826 5.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12173,43 +12165,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -2.54) (xy 0 -1.27)
-				)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 2.54) (xy 0 1.27)
-				)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
 					(xy 1.524 1.27) (xy 1.524 0.762)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 0) (xy 0.762 0)
 				)
 				(stroke
 					(width 0.254)
@@ -12232,8 +12188,8 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
-				(length 2.54)
+				(at 2.54 0 180)
+				(length 1.7272)
 				(name "R"
 					(effects
 						(font
@@ -12250,7 +12206,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -5.08 90)
+				(at 0 -3.81 90)
 				(length 2.54)
 				(name "A"
 					(effects
@@ -12268,7 +12224,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 5.08 270)
+				(at 0 3.81 270)
 				(length 2.54)
 				(name "K"
 					(effects
@@ -12295,7 +12251,7 @@
 			(at 3.556 2.54 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -12303,12 +12259,12 @@
 			(at 4.064 -4.572 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-3"
+		(property "Footprint" "SMD_SEMI:SOT23-3"
 			(at 20.066 6.096 0)
 			(effects
 				(font
@@ -12359,43 +12315,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -2.54) (xy 0 -1.27)
-				)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 2.54) (xy 0 1.27)
-				)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
 					(xy 1.524 1.27) (xy 1.524 0.762)
-				)
-				(stroke
-					(width 0.254)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 0) (xy 0.762 0)
 				)
 				(stroke
 					(width 0.254)
@@ -12418,7 +12338,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 5.08 270)
+				(at 0 3.81 270)
 				(length 2.54)
 				(name "K"
 					(effects
@@ -12436,8 +12356,8 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
-				(length 2.54)
+				(at 2.54 0 180)
+				(length 1.7272)
 				(name "R"
 					(effects
 						(font
@@ -12454,7 +12374,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -5.08 90)
+				(at 0 -3.81 90)
 				(length 2.54)
 				(name "A"
 					(effects
@@ -12481,7 +12401,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -12489,12 +12409,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:WSON6-2x2"
+		(property "Footprint" "SMD_SEMI:WSON6-2x2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12532,10 +12452,10 @@
 		)
 		(symbol "TLV76701_1_0"
 			(rectangle
-				(start 6.35 7.62)
-				(end -8.89 -12.7)
+				(start -8.89 7.62)
+				(end 6.35 -12.7)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -12679,7 +12599,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -12687,12 +12607,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:sot23-6"
+		(property "Footprint" "SMD_SEMI:sot23-6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12730,10 +12650,10 @@
 		)
 		(symbol "TPS22810DBVR_1_0"
 			(rectangle
-				(start 10.16 7.62)
-				(end -7.62 -7.62)
+				(start -7.62 7.62)
+				(end 10.16 -7.62)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -12859,7 +12779,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -12867,12 +12787,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:RQL0029A-MFG"
+		(property "Footprint" "SMD_SEMI:RQL0029A-MFG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12910,10 +12830,10 @@
 		)
 		(symbol "TPS25762-Q1_1_0"
 			(rectangle
-				(start 20.32 25.4)
-				(end -17.78 -25.4)
+				(start -17.78 25.4)
+				(end 20.32 -25.4)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -13453,7 +13373,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -13461,12 +13381,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SON10_2x2"
+		(property "Footprint" "SMD_SEMI:SON10_2x2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13504,10 +13424,10 @@
 		)
 		(symbol "TPS51206_1_0"
 			(rectangle
-				(start 12.7 10.16)
-				(end -10.16 -12.7)
+				(start -10.16 10.16)
+				(end 12.7 -12.7)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -13723,7 +13643,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -13731,12 +13651,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:QFN15_TI"
+		(property "Footprint" "SMD_SEMI:QFN15_TI"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13774,10 +13694,10 @@
 		)
 		(symbol "TPS54320_1_0"
 			(rectangle
-				(start 10.16 15.24)
-				(end -10.16 -15.24)
+				(start -10.16 15.24)
+				(end 10.16 -15.24)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -14065,7 +13985,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -14073,12 +13993,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT583-8"
+		(property "Footprint" "SMD_SEMI:SOT583-8"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14116,10 +14036,10 @@
 		)
 		(symbol "TPS62851x_1_0"
 			(rectangle
-				(start 10.16 10.16)
-				(end -10.16 -10.16)
+				(start -10.16 10.16)
+				(end 10.16 -10.16)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -14281,7 +14201,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -14289,12 +14209,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:QFN24"
+		(property "Footprint" "SMD_SEMI:QFN24"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14332,10 +14252,10 @@
 		)
 		(symbol "TPS65130_1_0"
 			(rectangle
-				(start 12.7 25.4)
-				(end -12.7 -30.48)
+				(start -12.7 25.4)
+				(end 12.7 -30.48)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -14803,7 +14723,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -14811,12 +14731,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-5"
+		(property "Footprint" "SMD_SEMI:SOT23-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14854,10 +14774,10 @@
 		)
 		(symbol "TPS72301_1_0"
 			(rectangle
-				(start 7.62 7.62)
-				(end -7.62 -7.62)
+				(start -7.62 7.62)
+				(end 7.62 -7.62)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -14965,7 +14885,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -14973,12 +14893,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-5"
+		(property "Footprint" "SMD_SEMI:SOT23-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15016,10 +14936,10 @@
 		)
 		(symbol "TPS7A2018PDBVR_1_0"
 			(rectangle
-				(start 7.62 7.62)
-				(end -7.62 -7.62)
+				(start -7.62 7.62)
+				(end 7.62 -7.62)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -15127,7 +15047,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -15135,12 +15055,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-5"
+		(property "Footprint" "SMD_SEMI:SOT23-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15178,10 +15098,10 @@
 		)
 		(symbol "TPS7A2025PDBVR_1_0"
 			(rectangle
-				(start 7.62 7.62)
-				(end -7.62 -7.62)
+				(start -7.62 7.62)
+				(end 7.62 -7.62)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -15289,7 +15209,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -15297,12 +15217,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-5"
+		(property "Footprint" "SMD_SEMI:SOT23-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15340,10 +15260,10 @@
 		)
 		(symbol "TPS7A2033PDBVR_1_0"
 			(rectangle
-				(start 7.62 7.62)
-				(end -7.62 -7.62)
+				(start -7.62 7.62)
+				(end 7.62 -7.62)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -15451,7 +15371,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -15459,12 +15379,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-5"
+		(property "Footprint" "SMD_SEMI:SOT23-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15502,10 +15422,10 @@
 		)
 		(symbol "TPS7A2045PDBVR_1_0"
 			(rectangle
-				(start 7.62 7.62)
-				(end -7.62 -7.62)
+				(start -7.62 7.62)
+				(end 7.62 -7.62)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -15613,7 +15533,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -15621,12 +15541,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:SOT23-5"
+		(property "Footprint" "SMD_SEMI:SOT23-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15664,10 +15584,10 @@
 		)
 		(symbol "TPS7A2401_1_0"
 			(rectangle
-				(start 7.62 7.62)
-				(end -7.62 -7.62)
+				(start -7.62 7.62)
+				(end 7.62 -7.62)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -15775,7 +15695,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -15783,12 +15703,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:QFN20"
+		(property "Footprint" "SMD_SEMI:QFN20"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15826,10 +15746,10 @@
 		)
 		(symbol "TPS7A4701_1_0"
 			(rectangle
-				(start 10.16 17.78)
-				(end -10.16 -20.32)
+				(start -10.16 17.78)
+				(end 10.16 -20.32)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -16225,7 +16145,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -16233,12 +16153,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_SEMI.PcbLib:QFN-FCMOD-RDX0007A"
+		(property "Footprint" "SMD_SEMI:QFN-FCMOD-RDX0007A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16276,10 +16196,10 @@
 		)
 		(symbol "TPSM863257_1_0"
 			(rectangle
-				(start 10.16 10.16)
-				(end -10.16 -10.16)
+				(start -10.16 10.16)
+				(end 10.16 -10.16)
 				(stroke
-					(width 0.0254)
+					(width 0)
 					(type solid)
 					(color 128 0 0 1)
 				)
@@ -16423,7 +16343,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -16431,7 +16351,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -16473,6 +16393,18 @@
 			)
 		)
 		(symbol "TRACO TEA 1-0505_1_0"
+			(rectangle
+				(start -10.16 5.08)
+				(end 10.16 -5.08)
+				(stroke
+					(width 0)
+					(type solid)
+					(color 128 0 0 1)
+				)
+				(fill
+					(type background)
+				)
+			)
 			(polyline
 				(pts
 					(xy 0 5.08) (xy 0 -5.08)
@@ -16483,18 +16415,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(rectangle
-				(start 10.16 5.08)
-				(end -10.16 -5.08)
-				(stroke
-					(width 0.0254)
-					(type solid)
-					(color 128 0 0 1)
-				)
-				(fill
-					(type background)
 				)
 			)
 			(pin passive line

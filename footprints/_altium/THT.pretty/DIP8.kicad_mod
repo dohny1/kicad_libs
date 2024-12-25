@@ -249,4 +249,15 @@
 		(remove_unused_layers no)
 		(uuid "94b68406-83e5-46a0-9ff6-f91ecc85349a")
 	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_3D/User Library-DIP-8P-M01.step"
+		(offset
+			(xyz -3.81 -3.81 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
