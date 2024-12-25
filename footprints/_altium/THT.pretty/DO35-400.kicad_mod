@@ -139,7 +139,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "Eco2.User")
+		(layer "F.CrtYd")
 		(uuid "bd301630-b57b-4745-9c29-81a41943dd44")
 	)
 	(fp_line
@@ -149,7 +149,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "Eco2.User")
+		(layer "F.CrtYd")
 		(uuid "c0d61f93-153c-4f66-aea4-eff80ef438b4")
 	)
 	(fp_line
@@ -159,7 +159,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "Eco2.User")
+		(layer "F.CrtYd")
 		(uuid "413c405d-7bb9-450c-8de0-65d17d0a7f7a")
 	)
 	(fp_line
@@ -169,7 +169,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "Eco2.User")
+		(layer "F.CrtYd")
 		(uuid "691e65f2-f0a7-4d8c-98fc-e9ef0c9f7fd9")
 	)
 	(fp_line
@@ -179,8 +179,19 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "Eco2.User")
+		(layer "F.CrtYd")
 		(uuid "2e9b79b3-15ed-4e39-8daf-5065c1aae9b3")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -0.19925)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "253ba7bb-eb89-46ce-b9bf-94aee2a2530f")
 	)
 	(pad "A" thru_hole circle
 		(at 5.08 0)
@@ -199,5 +210,16 @@
 		(remove_unused_layers no)
 		(thermal_bridge_angle 90)
 		(uuid "10a3fd0b-cbed-4598-bbbe-d07e29b052b9")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_3D/User Library-DO-35G-40.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )

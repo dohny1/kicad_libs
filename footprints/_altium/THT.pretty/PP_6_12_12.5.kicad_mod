@@ -180,4 +180,15 @@
 		(thermal_bridge_angle 90)
 		(uuid "72e821db-be87-4e2a-8ebe-edad27aedfc7")
 	)
+	(model "${KICAD8_3DMODEL_DIR}/_THT_3D/User Library-Film Capacitor 13x6x12mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

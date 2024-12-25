@@ -10,7 +10,7 @@
 			(at 8.128 -0.508 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -18,12 +18,12 @@
 			(at 5.588 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:CR2032_HORIZONTAL"
+		(property "Footprint" "THT:CR2032_HORIZONTAL"
 			(at 20.32 5.334 0)
 			(effects
 				(font
@@ -178,7 +178,7 @@
 			(at 4.064 2.032 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -186,12 +186,12 @@
 			(at 0.762 -3.302 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:C0201"
+		(property "Footprint" "SMD_PASSIVES:C0201"
 			(at 15.494 7.112 0)
 			(effects
 				(font
@@ -300,7 +300,7 @@
 			(at 1.778 1.778 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -308,12 +308,12 @@
 			(at 1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:C0402"
+		(property "Footprint" "SMD_PASSIVES:C0402"
 			(at 16.51 6.858 0)
 			(effects
 				(font
@@ -357,7 +357,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -370,7 +369,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -383,7 +381,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -396,7 +393,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -448,7 +444,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -456,12 +452,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:C0402_C0G"
+		(property "Footprint" "SMD_PASSIVES:C0402_C0G"
 			(at 0 0 0)
 			(effects
 				(font
@@ -505,7 +501,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -518,7 +513,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -531,7 +525,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -544,7 +537,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -605,7 +597,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -613,12 +605,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:C0603"
+		(property "Footprint" "SMD_PASSIVES:C0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -662,7 +654,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -675,7 +666,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -688,7 +678,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -701,7 +690,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -753,7 +741,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -761,12 +749,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:C0603_C0G"
+		(property "Footprint" "SMD_PASSIVES:C0603_C0G"
 			(at 0 0 0)
 			(effects
 				(font
@@ -810,7 +798,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -823,7 +810,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -836,7 +822,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -849,7 +834,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -910,7 +894,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -918,12 +902,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:C0805"
+		(property "Footprint" "SMD_PASSIVES:C0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -967,7 +951,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -980,7 +963,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -993,7 +975,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1006,7 +987,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1058,7 +1038,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -1066,12 +1046,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:C0805_C0G"
+		(property "Footprint" "SMD_PASSIVES:C0805_C0G"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1115,7 +1095,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1128,7 +1107,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1141,7 +1119,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1154,7 +1131,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1215,7 +1191,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -1223,12 +1199,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:C1206"
+		(property "Footprint" "SMD_PASSIVES:C1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1272,7 +1248,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1285,7 +1260,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1298,7 +1272,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1311,7 +1284,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1363,7 +1335,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -1371,12 +1343,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:C1206_C0G"
+		(property "Footprint" "SMD_PASSIVES:C1206_C0G"
 			(at 22.098 3.556 0)
 			(effects
 				(font
@@ -1420,7 +1392,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1433,7 +1404,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1446,7 +1416,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1459,7 +1428,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1520,7 +1488,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -1528,12 +1496,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:CAP_CER_14x5x17_RM7.62"
+		(property "Footprint" "THT:CAP_CER_14x5x17_RM7.62"
 			(at 15.494 5.588 0)
 			(effects
 				(font
@@ -1577,7 +1545,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1590,7 +1557,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1603,7 +1569,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1616,7 +1581,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1668,7 +1632,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -1676,12 +1640,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:CAP_ELYT_10x20"
+		(property "Footprint" "THT:CAP_ELYT_10x20"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1725,7 +1689,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1738,7 +1701,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1751,7 +1713,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1764,7 +1725,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1840,7 +1800,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -1848,12 +1808,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:CAP_ELYT_16x32"
+		(property "Footprint" "THT:CAP_ELYT_16x32"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1897,7 +1857,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1910,7 +1869,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1923,7 +1881,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -1936,7 +1893,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2012,7 +1968,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2020,12 +1976,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:CAP_ELYT_35x45x10"
+		(property "Footprint" "THT:CAP_ELYT_35x45x10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2069,7 +2025,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2082,7 +2037,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2095,7 +2049,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2108,7 +2061,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2184,7 +2136,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2192,12 +2144,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:CAP_ELYT_5X11.5x2"
+		(property "Footprint" "THT:CAP_ELYT_5X11.5x2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2241,7 +2193,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2254,7 +2205,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2267,7 +2217,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2280,7 +2229,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2356,7 +2304,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2364,12 +2312,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:CAP_POLY_10x12.5x5"
+		(property "Footprint" "THT:CAP_POLY_10x12.5x5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2413,7 +2361,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2426,7 +2373,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2439,7 +2385,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2452,7 +2397,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2528,7 +2472,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2536,12 +2480,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:CAP_POLY_6.3X8x2.5"
+		(property "Footprint" "THT:CAP_POLY_6.3X8x2.5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2585,7 +2529,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2598,7 +2541,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2611,7 +2553,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2624,7 +2565,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2700,7 +2640,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2708,12 +2648,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:CAP_POLY_8X11.5X3.5"
+		(property "Footprint" "THT:CAP_POLY_8X11.5X3.5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2757,7 +2697,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2770,7 +2709,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2783,7 +2721,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2796,7 +2733,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2872,7 +2808,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2880,12 +2816,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:CAP_PS_400"
+		(property "Footprint" "THT:CAP_PS_400"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2929,7 +2865,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2942,7 +2877,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2955,7 +2889,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -2968,7 +2901,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3020,7 +2952,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3028,12 +2960,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:CAP_PS_700"
+		(property "Footprint" "THT:CAP_PS_700"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3077,7 +3009,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3090,7 +3021,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3103,7 +3033,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3116,7 +3045,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3168,7 +3096,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3176,12 +3104,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:TAJ_A"
+		(property "Footprint" "SMD_PASSIVES:TAJ_A"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3225,7 +3153,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3238,7 +3165,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3251,7 +3177,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3264,7 +3189,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3340,7 +3264,7 @@
 			(at 2.54 -1.016 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3348,12 +3272,12 @@
 			(at 2.54 -3.556 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:TAJ_B"
+		(property "Footprint" "SMD_PASSIVES:TAJ_B"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3397,7 +3321,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3410,7 +3333,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3423,7 +3345,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3436,7 +3357,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3512,7 +3432,7 @@
 			(at -5.334 3.302 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3520,12 +3440,12 @@
 			(at -19.05 -11.938 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:TDK_12x11_CMC"
+		(property "Footprint" "SMD_PASSIVES:TDK_12x11_CMC"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3569,7 +3489,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3582,7 +3501,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3595,7 +3513,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3608,7 +3525,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3645,7 +3561,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3658,7 +3573,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3671,7 +3585,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3684,7 +3597,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3772,7 +3684,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -3780,12 +3692,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WE-CMB_Type M_L25W17H26.5"
+		(property "Footprint" "THT:WE-CMB_Type M_L25W17H26.5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3829,7 +3741,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3841,7 +3752,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3853,7 +3763,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3866,7 +3775,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3879,7 +3787,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3892,7 +3799,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3941,7 +3847,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3954,7 +3859,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3967,7 +3871,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -3980,7 +3883,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4060,6 +3962,361 @@
 			)
 		)
 	)
+	(symbol "CMC_RN102-0.3-02-22M"
+		(pin_names hide)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "FL"
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CMC_RN102-0.3-02-22M"
+			(at 0 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_THT:Choke_Schaffner_RN102-04-14.0x14.0mm"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Common mode choke, 300mA, 300VAC, 22mH, 1.3 ohm, RN-102"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "common-mode common mode choke powerline power line filter"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "Choke*Schaffner*RN102*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "CMC_RN102-0.3-02-22M_1_1"
+			(circle
+				(center -3.048 -1.27)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -3.048 1.524)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(arc
+				(start -2.54 2.032)
+				(mid -2.032 1.5262)
+				(end -1.524 2.032)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -1.524 -2.032)
+				(mid -2.032 -1.5262)
+				(end -2.54 -2.032)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -1.524 2.032)
+				(mid -1.016 1.5262)
+				(end -0.508 2.032)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -0.508 -2.032)
+				(mid -1.016 -1.5262)
+				(end -1.524 -2.032)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -0.508 2.032)
+				(mid 0 1.5262)
+				(end 0.508 2.032)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 -2.032) (xy -2.54 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 0.508) (xy 2.54 0.508)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 2.032) (xy -2.54 2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.032) (xy 2.54 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -0.508) (xy -2.54 -0.508)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 2.54) (xy 2.54 2.032)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 0.508 -2.032)
+				(mid 0 -1.5262)
+				(end -0.508 -2.032)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 0.508 2.032)
+				(mid 1.016 1.5262)
+				(end 1.524 2.032)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 1.524 -2.032)
+				(mid 1.016 -1.5262)
+				(end 0.508 -2.032)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 1.524 2.032)
+				(mid 2.032 1.5262)
+				(end 2.54 2.032)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 -2.032)
+				(mid 2.032 -1.5262)
+				(end 1.524 -2.032)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 2.54 0)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 2.54 180)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -2.54 0)
+				(length 2.54)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -2.54 180)
+				(length 2.54)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 	(symbol "CRYSTAL_3225"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4068,7 +4325,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4076,12 +4333,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "XOSC-3225"
+		(property "Footprint" "SMD_PASSIVES:XOSC-3225"
 			(at 12.954 3.81 0)
 			(effects
 				(font
@@ -4125,7 +4382,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4138,7 +4394,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4151,7 +4406,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4164,7 +4418,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4177,7 +4430,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4190,7 +4442,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4203,7 +4454,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4216,7 +4466,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4286,7 +4535,7 @@
 			(at -5.08 3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4294,12 +4543,12 @@
 			(at 2.286 -5.08 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:XTAL-32768"
+		(property "Footprint" "SMD_PASSIVES:XTAL-32768"
 			(at 21.082 5.842 0)
 			(effects
 				(font
@@ -4343,7 +4592,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4356,7 +4604,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4369,7 +4616,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4382,7 +4628,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4395,7 +4640,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4408,7 +4652,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4421,7 +4664,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4434,7 +4676,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4522,7 +4763,7 @@
 			(at -3.302 3.048 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4530,12 +4771,12 @@
 			(at 3.302 -6.096 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:UM-5"
+		(property "Footprint" "SMD_PASSIVES:UM-5"
 			(at 10.668 3.556 0)
 			(effects
 				(font
@@ -4579,7 +4820,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4592,7 +4832,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4605,7 +4844,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4618,7 +4856,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4631,7 +4868,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4644,7 +4880,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4657,7 +4892,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4670,7 +4904,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -4740,7 +4973,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4748,12 +4981,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:F0603"
+		(property "Footprint" "SMD_PASSIVES:F0603"
 			(at 15.748 4.572 0)
 			(effects
 				(font
@@ -4848,7 +5081,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4856,12 +5089,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:F0603"
+		(property "Footprint" "SMD_PASSIVES:F0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4956,7 +5189,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -4964,12 +5197,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:F0806"
+		(property "Footprint" "SMD_PASSIVES:F0806"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5064,7 +5297,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5072,12 +5305,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:F1206"
+		(property "Footprint" "SMD_PASSIVES:F1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5172,7 +5405,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5180,12 +5413,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:F1206"
+		(property "Footprint" "SMD_PASSIVES:F1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5280,7 +5513,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5288,12 +5521,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:L_25x20_MOLD"
+		(property "Footprint" "SMD_PASSIVES:L_25x20_MOLD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5361,7 +5594,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5374,7 +5606,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5387,7 +5618,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5439,7 +5669,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5447,12 +5677,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:L_4x4mm"
+		(property "Footprint" "SMD_PASSIVES:L_4x4mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5520,7 +5750,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5533,7 +5762,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5546,7 +5774,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5598,7 +5825,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5606,12 +5833,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:L_5x5mm_molded"
+		(property "Footprint" "SMD_PASSIVES:L_5x5mm_molded"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5679,7 +5906,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5692,7 +5918,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5705,7 +5930,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5757,7 +5981,7 @@
 			(at 1.016 6.35 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5765,12 +5989,12 @@
 			(at -7.62 3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:L_6x6mm"
+		(property "Footprint" "SMD_PASSIVES:L_6x6mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5838,7 +6062,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5851,7 +6074,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5864,7 +6086,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -5916,7 +6137,7 @@
 			(at 1.016 6.35 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -5924,12 +6145,12 @@
 			(at -7.62 3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:L_THT_8.5"
+		(property "Footprint" "THT:L_THT_8.5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5997,7 +6218,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6010,7 +6230,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6023,7 +6242,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6075,7 +6293,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6083,12 +6301,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:L-XAL1010"
+		(property "Footprint" "SMD_PASSIVES:L-XAL1010"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6156,7 +6374,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6169,7 +6386,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6182,7 +6398,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6234,7 +6449,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6242,12 +6457,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:L_XAL5050"
+		(property "Footprint" "SMD_PASSIVES:L_XAL5050"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6315,7 +6530,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6328,7 +6542,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6341,7 +6554,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6393,7 +6605,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6401,12 +6613,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:L0402"
+		(property "Footprint" "SMD_PASSIVES:L0402"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6473,7 +6685,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6486,7 +6697,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6499,7 +6709,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6512,7 +6721,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6564,7 +6772,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6572,12 +6780,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:L0603HP"
+		(property "Footprint" "SMD_PASSIVES:L0603HP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6620,7 +6828,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6633,7 +6840,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6646,7 +6852,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6659,7 +6864,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6711,7 +6915,7 @@
 			(at 1.016 6.35 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6719,12 +6923,12 @@
 			(at -7.62 3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:L0805AF"
+		(property "Footprint" "SMD_PASSIVES:L0805AF"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6768,7 +6972,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6781,7 +6984,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6794,7 +6996,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6846,7 +7047,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -6854,12 +7055,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:BOURNS_3314G"
+		(property "Footprint" "SMD_PASSIVES:BOURNS_3314G"
 			(at 11.43 8.128 0)
 			(effects
 				(font
@@ -6902,7 +7103,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -6951,7 +7151,6 @@
 				(stroke
 					(width -0.0001)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type outline)
@@ -7021,7 +7220,7 @@
 			(at 4.826 2.286 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7029,12 +7228,12 @@
 			(at 2.032 -4.826 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:TRIM_MULTITURN"
+		(property "Footprint" "THT:TRIM_MULTITURN"
 			(at 13.462 7.112 0)
 			(effects
 				(font
@@ -7077,7 +7276,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7126,7 +7324,6 @@
 				(stroke
 					(width -0.0001)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type outline)
@@ -7205,7 +7402,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7213,12 +7410,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:PP_6_12_12.5"
+		(property "Footprint" "THT:PP_6_12_12.5"
 			(at 17.526 5.334 0)
 			(effects
 				(font
@@ -7262,7 +7459,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7275,7 +7471,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7288,7 +7483,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7301,7 +7495,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7353,7 +7546,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7361,12 +7554,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:R0201"
+		(property "Footprint" "SMD_PASSIVES:R0201"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7409,7 +7602,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7461,7 +7653,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7469,12 +7661,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:R0402"
+		(property "Footprint" "SMD_PASSIVES:R0402"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7517,7 +7709,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7569,7 +7760,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7577,12 +7768,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:R0402_TF"
+		(property "Footprint" "SMD_PASSIVES:R0402_TF"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7625,7 +7816,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7686,7 +7876,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7694,12 +7884,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:R0603"
+		(property "Footprint" "SMD_PASSIVES:R0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7742,7 +7932,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7794,7 +7983,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7802,12 +7991,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:R0603_TF"
+		(property "Footprint" "SMD_PASSIVES:R0603_TF"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7850,7 +8039,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -7911,7 +8099,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -7919,12 +8107,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:R0805"
+		(property "Footprint" "SMD_PASSIVES:R0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7967,7 +8155,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -8019,7 +8206,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8027,12 +8214,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:R0805_TF"
+		(property "Footprint" "SMD_PASSIVES:R0805_TF"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8075,7 +8262,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -8136,7 +8322,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8144,12 +8330,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:R1206"
+		(property "Footprint" "SMD_PASSIVES:R1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8192,7 +8378,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -8244,7 +8429,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8252,7 +8437,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -8300,7 +8485,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -8350,7 +8534,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -8400,7 +8583,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -8450,7 +8632,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -8502,7 +8683,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8510,12 +8691,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:R1206_TF"
+		(property "Footprint" "SMD_PASSIVES:R1206_TF"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8558,7 +8739,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -8619,7 +8799,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8627,12 +8807,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:R2512"
+		(property "Footprint" "SMD_PASSIVES:R2512"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8675,7 +8855,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -8727,7 +8906,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8735,7 +8914,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -8783,7 +8962,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -8833,7 +9011,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -8883,7 +9060,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -8933,7 +9109,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type background)
@@ -8985,7 +9160,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8993,12 +9168,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:RES_5W_VERT"
+		(property "Footprint" "THT:RES_5W_VERT"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9041,7 +9216,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9093,7 +9267,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -9101,12 +9275,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:RES200"
+		(property "Footprint" "THT:RES200"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9149,7 +9323,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9201,7 +9374,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -9209,12 +9382,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:RES300"
+		(property "Footprint" "THT:RES300"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9257,7 +9430,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9309,7 +9481,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -9317,12 +9489,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:RES400"
+		(property "Footprint" "THT:RES400"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9365,7 +9537,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9417,7 +9588,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -9425,12 +9596,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:RES400_RN55"
+		(property "Footprint" "THT:RES400_RN55"
 			(at 4.826 4.064 0)
 			(effects
 				(font
@@ -9473,7 +9644,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9534,7 +9704,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -9542,12 +9712,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:TR_WURTH_9.45_8.5"
+		(property "Footprint" "SMD_PASSIVES:TR_WURTH_9.45_8.5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9590,7 +9760,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9602,7 +9771,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9615,7 +9783,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9628,7 +9795,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9641,7 +9807,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9654,7 +9819,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9667,7 +9831,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9680,7 +9843,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9693,7 +9855,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9706,7 +9867,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9719,7 +9879,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9732,7 +9891,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9745,7 +9903,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9758,7 +9915,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9891,7 +10047,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9904,7 +10059,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9917,7 +10071,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9930,7 +10083,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9943,7 +10095,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9956,7 +10107,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9969,7 +10119,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9982,7 +10131,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -9995,7 +10143,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10008,7 +10155,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10021,7 +10167,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10034,7 +10179,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10046,7 +10190,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10058,7 +10201,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10191,7 +10333,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -10199,7 +10341,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -10248,7 +10390,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10261,7 +10402,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10274,7 +10414,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10287,7 +10426,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10300,7 +10438,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10313,7 +10450,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10325,7 +10461,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10338,7 +10473,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10351,7 +10485,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10364,7 +10497,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10377,7 +10509,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10390,7 +10521,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10403,7 +10533,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10512,7 +10641,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10525,7 +10653,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10538,7 +10665,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10551,7 +10677,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10564,7 +10689,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10577,7 +10701,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10590,7 +10713,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10603,7 +10725,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10616,7 +10737,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10629,7 +10749,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10642,7 +10761,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10655,7 +10773,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10667,7 +10784,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10773,7 +10889,7 @@
 			(at -0.254 11.176 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -10781,12 +10897,12 @@
 			(at -5.842 -14.224 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:TR_CC_7.2W"
+		(property "Footprint" "SMD_PASSIVES:TR_CC_7.2W"
 			(at 24.13 13.462 0)
 			(effects
 				(font
@@ -10830,7 +10946,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10843,7 +10958,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10856,7 +10970,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10868,7 +10981,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10881,7 +10993,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10894,7 +11005,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10907,7 +11017,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10919,7 +11028,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10932,7 +11040,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10945,7 +11052,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10958,7 +11064,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10971,7 +11076,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10984,7 +11088,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -10997,7 +11100,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11130,7 +11232,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11143,7 +11244,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11156,7 +11256,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11169,7 +11268,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11182,7 +11280,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11195,7 +11292,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11208,7 +11304,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11221,7 +11316,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11234,7 +11328,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11246,7 +11339,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11259,7 +11351,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11272,7 +11363,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11285,7 +11375,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11297,7 +11386,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11457,7 +11545,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -11465,12 +11553,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:PLANAR_TR_ELP18X10"
+		(property "Footprint" "THT:PLANAR_TR_ELP18X10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11514,7 +11602,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11527,7 +11614,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11540,7 +11626,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11552,7 +11637,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11565,7 +11649,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11578,7 +11661,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11591,7 +11673,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11603,7 +11684,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11616,7 +11696,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11629,7 +11708,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11642,7 +11720,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11655,7 +11732,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11668,7 +11744,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11681,7 +11756,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11754,7 +11828,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11791,7 +11864,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11912,7 +11984,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11925,7 +11996,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11938,7 +12008,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11951,7 +12020,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11964,7 +12032,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11977,7 +12044,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -11990,7 +12056,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12003,7 +12068,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12016,7 +12080,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12029,7 +12092,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12042,7 +12104,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12055,7 +12116,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12068,7 +12128,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12081,7 +12140,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12094,7 +12152,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12106,7 +12163,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12119,7 +12175,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12132,7 +12187,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12145,7 +12199,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12157,7 +12210,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12170,7 +12222,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12183,7 +12234,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12196,7 +12246,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12208,7 +12257,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12221,7 +12269,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12234,7 +12281,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12247,7 +12293,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12259,7 +12304,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12269,7 +12313,7 @@
 				(at -5.842 -7.62 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -12278,7 +12322,7 @@
 				(at -5.842 2.54 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -12287,7 +12331,7 @@
 				(at 3.302 -17.78 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -12296,7 +12340,7 @@
 				(at 3.302 -7.62 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -12305,7 +12349,7 @@
 				(at 3.302 2.54 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -12314,7 +12358,7 @@
 				(at 3.302 12.7 0)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
@@ -12329,7 +12373,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -12337,7 +12381,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -12386,7 +12430,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12399,7 +12442,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12412,7 +12454,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12424,7 +12465,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12437,7 +12477,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12450,7 +12489,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12463,7 +12501,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12475,7 +12512,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12488,7 +12524,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12501,7 +12536,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12514,7 +12548,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12527,7 +12560,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12540,7 +12572,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12553,7 +12584,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12686,7 +12716,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12699,7 +12728,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12712,7 +12740,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12725,7 +12752,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12738,7 +12764,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12751,7 +12776,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12764,7 +12788,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12777,7 +12800,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12790,7 +12812,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12802,7 +12823,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12815,7 +12835,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12828,7 +12847,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12841,7 +12859,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -12853,7 +12870,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13013,7 +13029,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -13021,12 +13037,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SMD_PASSIVES.PcbLib:PLANAR_TR_800nH"
+		(property "Footprint" "SMD_PASSIVES:PLANAR_TR_800nH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13070,7 +13086,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13083,7 +13098,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13096,7 +13110,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13109,7 +13122,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13122,7 +13134,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13135,7 +13146,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13147,7 +13157,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13160,7 +13169,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13173,7 +13181,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13186,7 +13193,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13199,7 +13205,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13212,7 +13217,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13225,7 +13229,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13310,7 +13313,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13323,7 +13325,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13336,7 +13337,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13349,7 +13349,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13362,7 +13361,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13375,7 +13373,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13388,7 +13385,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13401,7 +13397,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13414,7 +13409,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13427,7 +13421,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13440,7 +13433,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13453,7 +13445,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13465,7 +13456,6 @@
 				(stroke
 					(width 0.508)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13553,7 +13543,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -13561,7 +13551,7 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -13609,7 +13599,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13673,7 +13662,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -13681,12 +13670,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WIMA_2.5_4.6"
+		(property "Footprint" "THT:WIMA_2.5_4.6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13730,7 +13719,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13743,7 +13731,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13756,7 +13743,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13769,7 +13755,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13821,7 +13806,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -13829,12 +13814,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WIMA_2.5_7.2_6.5"
+		(property "Footprint" "THT:WIMA_2.5_7.2_6.5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13878,7 +13863,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13891,7 +13875,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13904,7 +13887,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13917,7 +13899,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -13969,7 +13950,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -13977,12 +13958,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WIMA_26.5_10.5_18.5"
+		(property "Footprint" "THT:WIMA_26.5_10.5_18.5"
 			(at 20.574 3.302 0)
 			(effects
 				(font
@@ -14026,7 +14007,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14039,7 +14019,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14052,7 +14031,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14065,7 +14043,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14117,7 +14094,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -14125,12 +14102,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WIMA_FKP02_3_4.6_7.5"
+		(property "Footprint" "THT:WIMA_FKP02_3_4.6_7.5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14174,7 +14151,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14187,7 +14163,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14200,7 +14175,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14213,7 +14187,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14265,7 +14238,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -14273,12 +14246,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WIMA_4.5_7.2"
+		(property "Footprint" "THT:WIMA_4.5_7.2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14322,7 +14295,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14335,7 +14307,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14348,7 +14319,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14361,7 +14331,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14413,7 +14382,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -14421,12 +14390,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WIMA_FKP02_4.6_4.6_9"
+		(property "Footprint" "THT:WIMA_FKP02_4.6_4.6_9"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14470,7 +14439,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14483,7 +14451,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14496,7 +14463,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14509,7 +14475,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14561,7 +14526,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -14569,12 +14534,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WIMA_5.5_4.6_10"
+		(property "Footprint" "THT:WIMA_5.5_4.6_10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14618,7 +14583,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14631,7 +14595,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14644,7 +14607,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14657,7 +14619,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14709,7 +14670,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -14717,12 +14678,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WIMA_5.5_7.2_11.5"
+		(property "Footprint" "THT:WIMA_5.5_7.2_11.5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14766,7 +14727,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14779,7 +14739,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14792,7 +14751,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14805,7 +14763,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14857,7 +14814,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -14865,12 +14822,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WIMA_5.5_7.2"
+		(property "Footprint" "THT:WIMA_5.5_7.2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14914,7 +14871,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14927,7 +14883,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14940,7 +14895,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -14953,7 +14907,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -15005,7 +14958,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -15013,12 +14966,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WIMA_5_7.2_10"
+		(property "Footprint" "THT:WIMA_5_7.2_10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15062,7 +15015,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -15075,7 +15027,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -15088,7 +15039,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -15101,7 +15051,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -15153,7 +15102,7 @@
 			(at -1.27 1.27 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -15161,12 +15110,12 @@
 			(at -1.27 -3.81 0)
 			(effects
 				(font
-					(size 1.8288 1.8288)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THT.PcbLib:WIMA_8.5_7.2_14"
+		(property "Footprint" "THT:WIMA_8.5_7.2_14"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15210,7 +15159,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -15223,7 +15171,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -15236,7 +15183,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
@@ -15249,7 +15195,6 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 0 0 0 1)
 				)
 				(fill
 					(type none)
