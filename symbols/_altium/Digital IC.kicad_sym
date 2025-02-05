@@ -1983,7 +1983,7 @@
 			(pin input line
 				(at -15.24 12.7 0)
 				(length 5.08)
-				(name "CLR1"
+				(name "/CLR1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2001,7 +2001,7 @@
 			(pin input line
 				(at -15.24 -5.08 0)
 				(length 5.08)
-				(name "PRE2"
+				(name "/PRE2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2016,7 +2016,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin input clock
 				(at -15.24 -12.7 0)
 				(length 5.08)
 				(name "CLK2"
@@ -2055,7 +2055,7 @@
 			(pin input line
 				(at -15.24 -2.54 0)
 				(length 5.08)
-				(name "CLR2"
+				(name "/CLR2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2106,7 +2106,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin input clock
 				(at -15.24 2.54 0)
 				(length 5.08)
 				(name "CLK1"
@@ -2127,7 +2127,7 @@
 			(pin input line
 				(at -15.24 10.16 0)
 				(length 5.08)
-				(name "PRE1"
+				(name "/PRE1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2163,7 +2163,7 @@
 			(pin output line
 				(at 12.7 2.54 180)
 				(length 5.08)
-				(name "Q1"
+				(name "/Q1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2199,7 +2199,7 @@
 			(pin output line
 				(at 12.7 -5.08 180)
 				(length 5.08)
-				(name "Q2"
+				(name "/Q2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -32091,7 +32091,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -32277,7 +32276,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -32820,7 +32818,7 @@
 			)
 		)
 		(property "Value" "NC7SZ74P6X"
-			(at -1.27 -3.81 0)
+			(at -4.064 -10.668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32916,7 +32914,7 @@
 			(pin output line
 				(at 12.7 -5.08 180)
 				(length 5.08)
-				(name "Q"
+				(name "/Q"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -32970,7 +32968,7 @@
 			(pin input line
 				(at 12.7 0 180)
 				(length 5.08)
-				(name "CLR"
+				(name "/CLR"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -32988,7 +32986,7 @@
 			(pin input line
 				(at 12.7 2.54 180)
 				(length 5.08)
-				(name "PR"
+				(name "/PR"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -33111,7 +33109,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -33309,7 +33306,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -33321,7 +33317,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -33936,7 +33931,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -33948,7 +33942,6 @@
 				(stroke
 					(width 0.254)
 					(type solid)
-					
 				)
 				(fill
 					(type none)
@@ -42469,7 +42462,7 @@
 				)
 				(fill
 					(type color)
-					
+					(color 0 0 0 0)
 				)
 			)
 			(text "BANK 0"
